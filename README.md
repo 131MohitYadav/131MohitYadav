@@ -40,9 +40,9 @@
 ---
 
 ## 🔥 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=131MohitYadav&theme=radical" />
-</p>
+
+  ![](https://github-readme-activity-graph.cyclic.app/graph?username=131MohitYadav&theme=radical)
+
 
 ---
 
