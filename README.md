@@ -12,7 +12,7 @@ I'm Mohit Yadav
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YADAVJIMOHIT54) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-yadav-9281a5251) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YADAVJIMOHIT54@GMAIL.COM)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.com/your-leetcode-username/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.com/your-leetcode-yadavjimohit54/)  
 
 ---
 
