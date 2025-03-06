@@ -1,5 +1,5 @@
 # 💫 Hello
-I'm Mohit Yadav
+# I'm Mohit Yadav
 
 ## 💫 About Me:
 - 🔭 Currently working on **Quizz-app Project**  
@@ -43,7 +43,7 @@ I'm Mohit Yadav
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Motivational Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
