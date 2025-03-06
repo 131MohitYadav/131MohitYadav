@@ -1,7 +1,5 @@
 <h1 align="center">😊 Hello, I'm Mohit Yadav 😊</h1>
 
-
-
 ---
 
 ## 💫 About Me:
@@ -33,10 +31,16 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=131MohitYadav&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=131MohitYadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+---
+
+## 🔥 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=131MohitYadav&theme=radical" />
 </p>
 
 ---
