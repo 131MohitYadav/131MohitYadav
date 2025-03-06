@@ -31,10 +31,11 @@
 ---
 
 ## 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=131MohitYadav&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=131MohitYadav&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=131MohitYadav&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=131MohitYadav&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=131MohitYadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
 
