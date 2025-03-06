@@ -1,3 +1,10 @@
+name: Auto Update GitHub README
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs at the start of every hour
+  workflow_dispatch:  # Allows manual execution
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -5,15 +12,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate and Push Updates Every 10 Seconds
+      - name: Generate GitHub Stats
+        uses: teoxoy/profile-readme-stats@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          while true; do
-            echo "Updating README at $(date)" >> README.md
-            git add README.md
-            git commit -m "Auto-update GitHub Stats [skip ci]" || true
-            git push origin main || true
-            sleep 10  # Wait for 10 seconds before updating again
-          done
+          git add README.md
+          git commit -m "Auto-update GitHub Stats [skip ci]" || exit 0
+          git push
