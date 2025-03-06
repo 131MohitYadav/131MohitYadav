@@ -1,10 +1,6 @@
 <h1 align="center">😊 Hello, I'm Mohit Yadav 😊</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web Development-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Problem Solving-%23FF6F00.svg?style=flat-square&logo=leetcode&logoColor=white" />
-</p>
+
 
 ---
 
