@@ -39,6 +39,8 @@ I'm Mohit Yadav
 
 ## 🔥 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat-square&logo=leetcode&logoColor=yellow)](https://leetcode.com/fsm-Mohit/)
+
 
 ---
 
