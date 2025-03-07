@@ -49,15 +49,10 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
+![](https://github-readme-stats.vercel.app/api?username=131MohitYadav&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=131MohitYadav&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=131MohitYadav&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=131MohitYadav&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=131MohitYadav&layout=compact&theme=radical&count_private=true&cache_seconds=86400" alt="Top Languages" />
-
-</p>
 
 ---
 
