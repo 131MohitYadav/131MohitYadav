@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=131MohitYadav&label=Profile%20views&color=0e75b6&style=flat" alt="131MohitYadav" /> 
 </p>
 
-
 ---
 
 ## 💫 About Me:
@@ -36,15 +35,13 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&locale=en&theme=radical" alt="131MohitYadav" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=131MohitYadav&theme=radical" alt="131MohitYadav" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=131MohitYadav&show_icons=true&locale=en&layout=compact&theme=radical" alt="131MohitYadav" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=131MohitYadav&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=131MohitYadav&layout=compact&theme=radical&count_private=true&cache_seconds=86400" alt="Top Languages" />
 
 </p>
 
@@ -59,7 +56,7 @@
 
 ## 🔥 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace" />
+  <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace&cache_seconds=86400" />
 </p>
 
 ---
@@ -73,7 +70,7 @@
 
 ## 🔝 Top Contributed Repo:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=131MohitYadav&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=131MohitYadav&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=86400" />
 </p>
 
 ---
