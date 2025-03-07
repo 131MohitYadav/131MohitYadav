@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
