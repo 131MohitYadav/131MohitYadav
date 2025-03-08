@@ -73,7 +73,7 @@
       <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace&ext=heatmap&cache_seconds=86400" />
     </td>
     <td>
-        <img src="https://your-uploaded-image-link.com/badgedec.png" width="200" />
+        <img src="https://i.postimg.cc/QC4QH3qb/badge-50.gif" width="200" />
     </td>
   </tr>
 </table>
