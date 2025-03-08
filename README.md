@@ -65,11 +65,20 @@
 </p>
 
 ---
-
 ## 🔥 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace&ext=heatmap&cache_seconds=86400" />
-</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace&ext=heatmap&cache_seconds=86400" />
+    </td>
+    <td>
+      <img src="" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
