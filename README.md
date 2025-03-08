@@ -74,6 +74,7 @@
     </td>
     <td>
         <img src="https://i.postimg.cc/QC4QH3qb/badge-50.gif" width="200" />
+       <img src="https://i.postimg.cc/kgdQGfQL/d-2024.gif" width="200" height="218" />
     </td>
   </tr>
 </table>
