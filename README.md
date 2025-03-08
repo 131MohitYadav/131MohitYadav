@@ -68,7 +68,7 @@
 
 ## 🔥 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace&cache_seconds=86400" />
+  <img src="https://leetcard.jacoblin.cool/fsm-Mohit?theme=dark&font=Monospace&ext=heatmap&cache_seconds=86400" />
 </p>
 
 ---
