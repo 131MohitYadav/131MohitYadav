@@ -1,7 +1,7 @@
 <h1 align="center">😊 Hello, I'm Mohit Yadav 😊</h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=131MohitYadav&label=Profile%20views&color=0e75b6&style=flat" alt="131MohitYadav" /> 
+  <img src="https://komarev.com/ghpvc/?username=131MohitYadav&label=Profile%20views&color=0e75b6&style=fla" alt="131MohitYadav" /> 
 </p>
 
 ---
@@ -19,7 +19,7 @@
       - 💡 Passionate about **Web Development & Problem Solving**  
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" alt="coding">
+      <img src="https://i.postimg.cc/ZqppCYXZ/hackergif.gif" width="300" alt="coding">
     </td>
   </tr>
 </table>
