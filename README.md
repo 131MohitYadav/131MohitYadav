@@ -12,7 +12,7 @@
   <tr>
     <td>
       - 🔭 I’m currently working on [Quiz-app-project](https://online-quizz-131.vercel.app)<br><br>
-      - 🌱 I’m currently learning **ReactJs, Java with Servlet, Java Server Pages(JSP)**<br><br>
+      - 🌱 I’m currently learning **ReactJs, Java with Servlet, Java Server Pages(JSP) , SpringBoot , RestApi**<br><br>
       - 👨‍💻 All of my projects are available at [My Projects](https://vercel.com/131mohityadavs-projects)<br><br>
       - 📫 How to reach me **YADAVJIMOHIT54@GMAIL.COM**<br><br>
       - ⚡ Fun fact **I am Lazy**<br><br>
