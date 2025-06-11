@@ -11,7 +11,7 @@
 <table border="none">
   <tr>
     <td>
-      - 🔭 I’m completed  [Quiz-app-project] language used -> HTML , CSS , JAVASCRIPT(https://vercel.com/131mohityadavs-projects/online-quizzz-mohit-131)<br><br>
+      - 🔭 I’m completed  [Quiz-app-project] language used -> HTML , CSS , JAVASCRIPT With Authentication (https://vercel.com/131mohityadavs-projects/online-quizzz-mohit-131)<br><br>
       - 🌱 I’m currently learning **ReactJs, Java with Servlet, Java Server Pages(JSP) , SpringBoot , RestApi**<br><br>
       - 👨‍💻 All of my projects are available at [My Projects](https://vercel.com/131mohityadavs-projects)<br><br>
       - 📫 How to reach me **YADAVJIMOHIT54@GMAIL.COM**<br><br>
