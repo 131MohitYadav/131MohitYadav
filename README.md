@@ -12,7 +12,8 @@
   <tr>
     <td>
       - 🔭 I’ve completed a [Quiz App Project](https://online-quizzz-mohit-131.vercel.app) using **HTML, CSS, JavaScript** with authentication.<br><br>
-      - 🛒 Completed Minor Project: [LG E-Commerce Website](https://lg-ecommerce.vercel.app)<br><br>
+       - 🔭 I’ve completed a [Codechef website](https://vercel.com/131mohityadavs-projects/codechef-131) using **HTML, CSS , Javascript .<br><br>
+      - 🛒 Completed Minor Project: [LG E-Commerce Website](https://front-page-lg-131.vercel.app/)<br><br>
       - 🏋️ Currently building a **Gym Responsive Website** using **ReactJS** → [Live Preview](https://gym-react-mohit.vercel.app)<br><br>
       - 🌱 Currently learning: **Spring Boot, REST API, Hibernate, JSP, JDBC**<br><br>
       - 👨‍💻 All of my projects are available at [My Vercel Dashboard](https://vercel.com/131mohityadavs-projects)<br><br>
