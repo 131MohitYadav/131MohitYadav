@@ -11,12 +11,12 @@
 <table border="none">
   <tr>
     <td>
-      - 🔭 I’ve completed a [Quiz App Project](https://online-quizzz-mohit-131.vercel.app) using **HTML, CSS, JavaScript** with authentication<br><br>
+      - 🔭 I’ve completed a [Quiz App Project](https://online-quizzz-mohit-131.vercel.app) using **HTML, CSS, JavaScript** with authentication.<br><br>
       - 🛒 Completed Minor Project: [LG E-Commerce Website](https://lg-ecommerce.vercel.app)<br><br>
-      - 🏋️ Currently building a **Gym Responsive Website** using **ReactJS** [Live Preview](https://gym-react-mohit.vercel.app)<br><br>
+      - 🏋️ Currently building a **Gym Responsive Website** using **ReactJS** → [Live Preview](https://gym-react-mohit.vercel.app)<br><br>
       - 🌱 Currently learning: **Spring Boot, REST API, Hibernate, JSP, JDBC**<br><br>
-      - 👨‍💻 All of my projects are available at [My Vercel Projects](https://vercel.com/131mohityadavs-projects)<br><br>
-      - 📫 How to reach me: **yadavjimohit54@gmail.com**<br><br>
+      - 👨‍💻 All of my projects are available at [My Vercel Dashboard](https://vercel.com/131mohityadavs-projects)<br><br>
+      - 📫 Reach me at: **yadavjimohit54@gmail.com**<br><br>
       - ⚡ Fun fact: **I am Lazy 😄**<br><br>
       - 💡 Passionate about **Full Stack Web Development & DSA Problem Solving**
     </td>
@@ -30,12 +30,12 @@
 
 ## 🌐 Connect with Me:
 <p align="center">
-<a href="https://linkedin.com/in/mohit-yadav-9281a5251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/yadavjimohit54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yadavjimohit54" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yadavjimohit54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fsm-mohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yadavjim00qo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohit-yadav-9281a5251" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/yadavjimohit54" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yadavjimohit54" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@yadavjimohit54" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fsm-mohit" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yadavjim00qo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -119,4 +119,8 @@
 
 ---
 
-🚀 **Let's Connect & Collaborate!**
+## 🚀 Let’s Collaborate!
+If you’re working on any exciting **ReactJS**, **Spring Boot**, or **full-stack** projects, feel free to reach out. I’m always open to learning and building amazing products together!
+
+**Thank you for visiting my profile!** 😊🙏
+
