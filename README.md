@@ -115,9 +115,11 @@
 
 ## 🔝 Top Contributed Repo:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=131MohitYadav&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=86400" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=131MohitYadav&show_icons=true&theme=dark" 
+    alt="GitHub Stats"
+  />
 </p>
-
 ---
 
 ## 🚀 Let’s Collaborate!
