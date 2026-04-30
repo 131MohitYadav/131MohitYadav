@@ -53,11 +53,11 @@
 
 ### 🛠️ Backend:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://i.imgur.com/ueVY5wl.png" alt="JDBC" width="40" height="40"/>
-  <img src="https://i.imgur.com/jICj7Bz.png" alt="JSP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/> 
+  <img src="https://i.imgur.com/ueVY5wl.png" alt="JDBC" width="40"/>
+  <img src="https://i.imgur.com/jICj7Bz.png" alt="JSP" width="40"/>
 </p>
 
 ### 🔧 Tools & Others:
